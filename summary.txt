@@ -1,0 +1,89 @@
+# 📄 Summarize AI
+
+**Summarize AI** is a smart, AI-powered desktop tool that transcribes and summarizes content from **video, audio, or text files** using a combination of speech recognition and generative AI.
+
+---
+
+## 🧠 Core Features
+
+- 🎹 **Transcribe audio/video files** (using Vosk or Google SpeechRecognition)
+- ✨ **Generate intelligent summaries** with `Gemini Flash 2.0`
+- 📄 **Process plain text files** for direct summarization
+- 📂 Supports formats: `.mp4`, `.mp3`, `.wav`, `.txt`
+- 💻 Easy-to-use GUI with `CustomTkinter`
+
+---
+
+## 🛠️ Technologies Used
+
+| Technology        | Purpose                               |
+|-------------------|----------------------------------------|
+| Vosk              | Offline speech-to-text transcription   |
+| SpeechRecognition | Online speech transcription (Google)   |
+| Gemini Flash 2.0  | AI-powered text summarization          |
+| Pydub             | Audio splitting and conversion         |
+| PIL               | Image processing for GUI               |
+| CustomTkinter     | Modern desktop GUI                     |
+
+---
+
+## 🧹 Real-Life Use Cases
+
+- 🎓 **Students**: Summarize lectures and tutorials
+- 🏢 **Professionals**: Get meeting summaries in minutes
+- 🎤 **Podcasters & Creators**: Extract key points from content
+- 📖 **Readers**: Summarize long documents instantly
+
+---
+
+## 🗄️ Screenshots
+
+### 1. Video/Audio Loading Interface
+![Listing](assets/image/9251270.png)
+
+### 2. Transcribing Progress
+![Writing](assets/image/writting.jpg)
+
+### 3. AI Generating Summary
+![AI Writing](assets/image/ai_writting.jpg)
+
+### 4. Process Complete
+![Done](assets/image/done.png)
+
+```
+assets/
+├── image/
+│   ├── 9251270.png
+│   ├── writting.jpg
+│   ├── ai_writting.jpg
+│   └── done.png
+```
+
+---
+
+## 📦 How to Use
+
+1. Clone the repository
+2. Install requirements
+```bash
+pip install -r requirements.txt
+```
+3. Run the app
+```bash
+python main.py
+```
+
+---
+
+## 🚀 Hackathon Relevance
+
+**Summarize AI** solves a major real-world problem — **time wastage in content consumption**. By combining speech recognition and GenAI, it delivers smart summaries and saves hours of effort.
+
+---
+
+## 📬 Contact / Credits
+
+Made with ❤️ by [Your Name] – Shivox
+
+---
+
