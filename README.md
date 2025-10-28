@@ -70,6 +70,6 @@ python main.py
 
 ## 📬 Contact / Credits
 
-Made with ❤️ by [Amit] – Shivox
+Made with ❤️ by [Bobby shaw}
 
 ---
